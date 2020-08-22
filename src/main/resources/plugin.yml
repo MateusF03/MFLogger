@@ -1,0 +1,7 @@
+name: MFLogger
+version: 1.1
+main: com.mateus.mflogger.MFLoggerPlugin
+author: Mateusaum
+commands:
+  getLogs:
+    description: Pega todas as informações logadas em uma região

@@ -1,0 +1,12 @@
+whitelist-ativada: false #Ativa a whitelist
+
+whitelist: #Só vai logar as ações dos jogadores nessa lista
+  - 'Herobrine'
+
+logs-ativados: #Ativa ou desativa certos logs
+  comandos: true
+  abrir-inventário: true
+  colocar-blocos: true
+  quebrar-blocos: true
+  dropar-item: true
+  chat: true
