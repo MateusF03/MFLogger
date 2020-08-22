@@ -5,3 +5,7 @@ author: Mateusaum
 commands:
   getLogs:
     description: Pega todas as informações logadas em uma região
+permissions:
+  mflogger.admin:
+    description: Permissão para executar o comando de recuperar registros em uma região
+  
